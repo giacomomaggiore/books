@@ -1,0 +1,33 @@
+body{
+	background-color: white;
+	text-align: center;
+	height: 100%;
+	margin: 0 0 0 0;
+}
+
+#link_spazio:hover{
+	text-decoration: none;
+
+}
+#link_spazio.desktop{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	font-size: 200%;
+	width: 100%;
+
+    margin: 0 0 0 0;
+    height: 92vh;
+    text-align: center;
+}
+
+#titolo_landing.desktop{
+    margin: 0 0 0 0;
+    text-align: center;
+}
+
+#link_a:hover{
+	text-decoration: 100%;
+}
+
+

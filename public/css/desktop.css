@@ -1,0 +1,56 @@
+/*DESKTOP */
+
+
+
+#titolo_header.desktop{
+    font-size: 6vh;
+    text-decoration: dotted;
+}
+
+#header.desktop{
+    height: 15vh;
+}
+
+#citazione.desktop{
+    font-size: 5vh;
+}
+
+#footer.desktop{
+    vertical-align: middle;
+    height: 8vh;
+    
+}
+
+#made_by_love.desktop{
+    font-size:3vh;
+    
+}
+
+
+#content.desktop{
+    padding-top: 6vh;
+    padding-bottom: 6vh;
+    height: 65vh;
+    width: 100%;    
+
+    
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row-reverse;
+}
+
+#copertina.desktop{
+    float: left;
+}
+
+#div_copertina.desktop{
+    width: 50vh;
+    height: 100%;
+}
+
+#div_citazione.desktop{
+    
+    text-align: left;
+    width: 50vh ;
+}
+

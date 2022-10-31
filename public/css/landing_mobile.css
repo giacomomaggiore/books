@@ -1,0 +1,31 @@
+body{
+	background-color: white;
+	text-align: center;
+	height: 100%;
+	margin: 0 0 0 0;
+}
+
+#link_spazio:hover{
+	text-decoration: none;
+}
+#link_spazio.mobile{
+	
+
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	height: 92vh;
+	
+	font-size: 2vh;
+	width: 100%;
+
+}
+
+#titolo_landing, #launching_landing{
+	padding-left: 5%;
+	padding-right: 5%;
+}
+
+#link_a:hover{
+	text-decoration: 100%;
+}
