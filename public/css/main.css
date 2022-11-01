@@ -108,5 +108,6 @@ a:hover{
     text-decoration: line-through;
 }
 #suggest_me{
+    color: red;
     color: var(--colore_header_footer);
 }

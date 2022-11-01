@@ -4,7 +4,7 @@
 const libri = [
     {
         titolo: "California",
-        citazione: "",
+        citazione: "Insomma, vorremmo essere un po' più come la California, che infatti da secoli è considerata la «fine del mondo»",
         src: "https://m.media-amazon.com/images/I/71jll4IJAmL.jpg",
         link: "https://www.amazon.it/California-Francesco-Costa/dp/8804755210/ref=sr_1_1?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=3VXSC7PW0ZB64&keywords=california+costa&qid=1666554573&qu=eyJxc2MiOiIwLjEyIiwicXNhIjoiMC4wNiIsInFzcCI6IjAuMTAifQ%3D%3D&sprefix=california+cost%2Caps%2C193&sr=8-1",
     },
@@ -156,7 +156,7 @@ const libri = [
     {
         titolo: "Momenti di trascurabile felicità",
         citazione: "Tutte le cose che bisogna fare, mi piace rimandarle, oppure averle già fatte.",
-        src: "https://m.media-amazon.com/images/I/419maTdPYrL.jpg",
+        src: "https://m.media-amazon.com/images/I/61u6kJLydPL.jpg",
         link: "https://www.amazon.it/Momenti-trascurabile-felicit%C3%A0-Francesco-Piccolo/dp/8806219650/ref=sr_1_1?keywords=momenti+di+trascurabile+felicit%C3%A0&qid=1666554860&qu=eyJxc2MiOiIwLjgwIiwicXNhIjoiMC40MiIsInFzcCI6IjAuNDkifQ%3D%3D&sprefix=momenti+di+tr%2Caps%2C256&sr=8-1",
     },
     {
