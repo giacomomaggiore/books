@@ -17,7 +17,7 @@
 }
 
 #header.mobile{
-    height: 9vh;
+    height: 9%;
 }
 
  #content.mobile{
@@ -25,7 +25,7 @@
     flex-direction: column;
     justify-content: space-evenly;
     margin: 0 0 0 0;
-    height: 80vh;
+    height: 80%;
  }
 
 #div_citazione.mobile{
@@ -40,7 +40,7 @@
 }
 
 #footer.mobile{
-    height: 8vh;
+    height: 8%;
 }
 
 #made_by_love.mobile{
