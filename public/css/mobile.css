@@ -51,8 +51,13 @@
 
 #div_copertina.mobile{
     height: 50vh ;
-    flex-direction: row;
+    flex-direction: column;
+    
     justify-content: center
+}
+
+#copertina.mobile{
+    height: 80%;
 }
 
 
