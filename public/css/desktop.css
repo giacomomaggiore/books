@@ -39,10 +39,6 @@
     flex-direction: row-reverse;
 }
 
-#copertina.desktop{
-    float: left;
-}
-
 #div_copertina.desktop{
     width: 50vh;
     height: 100%;
