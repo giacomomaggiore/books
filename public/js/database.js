@@ -186,7 +186,7 @@ const libri = [
     {
         titolo: "Le tre del mattino",
         citazione: "Si è fatto tardi molto presto.",
-        src: "https://m.media-amazon.com/images/I/41y-+nsBaRL.jpg",
+        src: "https://www.einaudi.it/content/uploads/2017/10/978880623607HIG.JPG",
         link: "https://www.amazon.it/tre-del-mattino-Gianrico-Carofiglio/dp/8806240706/ref=sr_1_1?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=3IFRRP04A4TBT&keywords=le+tre+del+mattino&qid=1666554906&qu=eyJxc2MiOiIwLjQ1IiwicXNhIjoiMC4xNyIsInFzcCI6IjAuMjIifQ%3D%3D&sprefix=le+tre+del+matt%2Caps%2C295&sr=8-1",
     },
     {
