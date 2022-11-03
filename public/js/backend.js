@@ -109,11 +109,11 @@ function scelta_libro(){
 
 function funzione_lancio(){
     index = scelta_libro()
-
+    let pre_link = "./database/"
     
 
     citazione.innerHTML = "“"+libri[index].citazione+"”"
-    copertina.src = libri[index].src
+    copertina.src = "./database/"+index+".jpg"
 
 
     //link_amazon.href = libri[index].link
