@@ -12,10 +12,12 @@ body, html{
 #suggest_me{
     color: var(--colore_header_footer);
 }
+/*CBA135 */
+
 
 :root{
     --widht_container:85%;
-    --colore_header_footer: #CBA135; 
+    --colore_header_footer: #35A7FF; 
     --altezza_header: 12vh;
     --altezza_footer: 8vh;
 
