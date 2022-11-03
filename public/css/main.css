@@ -7,7 +7,7 @@ body, html{
 }
 
 #titolo_landing{
-    color: var(--colore_header_footer);
+    color: var(--colore_secondario);
 }
 #suggest_me{
     color: var(--colore_header_footer);
@@ -17,7 +17,8 @@ body, html{
 
 :root{
     --widht_container:85%;
-    --colore_header_footer: #35A7FF; 
+    --colore_header_footer: #CE9E2E; 
+    --colore_secondario: #507255;
     --altezza_header: 12vh;
     --altezza_footer: 8vh;
 
@@ -79,5 +80,5 @@ a:hover{
 }
 #suggest_me{
     color: red;
-    color: var(--colore_header_footer);
+    color: var(--colore_secondario);
 }
