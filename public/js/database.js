@@ -4,7 +4,7 @@
 const libri = [
     {
         titolo: "California",
-        citazione: "Insomma, vorremmo essere un po' più come la California, che infatti da secoli è considerata la «fine del mondo»",
+        citazione: "Insomma, vorremmo essere un po' più come la California, che infatti da secoli è considerata la «fine del mondo».",
         src: "https://m.media-amazon.com/images/I/71jll4IJAmL.jpg",
         link: "https://www.amazon.it/California-Francesco-Costa/dp/8804755210/ref=sr_1_1?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=3VXSC7PW0ZB64&keywords=california+costa&qid=1666554573&qu=eyJxc2MiOiIwLjEyIiwicXNhIjoiMC4wNiIsInFzcCI6IjAuMTAifQ%3D%3D&sprefix=california+cost%2Caps%2C193&sr=8-1",
     },
@@ -34,7 +34,7 @@ const libri = [
     },
     {
         titolo: "La Traiettoria",
-        citazione: "Vengo da una famiglia dove seguire le regole è un imperativo. Per capire chi ero ho dovuto infrangerle",
+        citazione: "Vengo da una famiglia dove seguire le regole è un imperativo. Per capire chi ero ho dovuto infrangerle.",
         src: "https://www.ibs.it/images/9788804749080_0_536_0_75.jpg",
         link: "https://www.amazon.it/traiettoria-Alessandro-Benetton/dp/8804749083/ref=sr_1_1?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=364VA79PM5XO9&keywords=la+traiettoria&qid=1666554636&qu=eyJxc2MiOiIwLjE5IiwicXNhIjoiMC4xMSIsInFzcCI6IjAuMjMifQ%3D%3D&sprefix=la+traiettori%2Caps%2C179&sr=8-1",
     },
@@ -58,7 +58,7 @@ const libri = [
     },
     {
         titolo: "La Sostanza Instabile",
-        citazione: "“Qualcosa è esploso”. Loro sono i terroristi, quasi sicuramente islamici. ",
+        citazione: "“Qualcosa è esploso”. Loro sono i terroristi, quasi sicuramente islamici.",
         src: "https://www.giulioperroneditore.com/wp-content/uploads/2021/06/copertina_lombezzi_min.jpg",
         link: "https://www.amazon.it/sostanza-instabile-Giulia-Lombezzi/dp/8860045703/ref=sr_1_1?keywords=la+sostanza+instabile&qid=1666554682&qu=eyJxc2MiOiIwLjAwIiwicXNhIjoiMC4wMCIsInFzcCI6IjAuMDAifQ%3D%3D&sprefix=la+sostanza+ins%2Caps%2C201&sr=8-1",
     },
@@ -82,13 +82,13 @@ const libri = [
     },
     {
         titolo: "Una notte ho sognato New York",
-        citazione: "Bastano cinque minuti per sentirti parte di New York, ma una vita intera per capirla fino in fondo",
+        citazione: "Bastano cinque minuti per sentirti parte di New York, ma una vita intera per capirla fino in fondo.",
         src: "https://m.media-amazon.com/images/I/61vKCnaTK8L.jpg",
         link: "https://www.amazon.it/Una-notte-sognato-New-York/dp/8804724994/ref=sr_1_1?keywords=una+notte+ho+sognato+new+york&qid=1666554723&qu=eyJxc2MiOiIxLjA1IiwicXNhIjoiMC43MyIsInFzcCI6IjAuNzUifQ%3D%3D&sprefix=una+notte+h%2Caps%2C202&sr=8-1",
     },
     {
         titolo: "I Principi del Successo",
-        citazione: "Confidate nella verità a tutti i costi e nella trasparenza estrema",
+        citazione: "Confidate nella verità a tutti i costi e nella trasparenza estrema.",
         src: "https://m.media-amazon.com/images/I/71LyvaUH80L.jpg",
         link: "https://www.amazon.it/principi-del-successo-Ray-Dalio/dp/8820385716/ref=sr_1_1?keywords=i+principi+del+successo+ray+dalio&qid=1666554733&qu=eyJxc2MiOiIxLjI4IiwicXNhIjoiMC44MSIsInFzcCI6IjAuOTEifQ%3D%3D&sprefix=i+principi+del+%2Caps%2C208&sr=8-1",
     },
@@ -118,19 +118,19 @@ const libri = [
     },
     {
         titolo: "Il metodo Warren Buffet",
-        citazione: "Ciò che mi preoccupa di più è la mcnanza di fiducia negli investimenti a lungo termine.",
+        citazione: "Ciò che mi preoccupa di più è la mancanza di fiducia negli investimenti a lungo termine.",
         src: "https://m.media-amazon.com/images/I/51q-meCl8VL.jpg",
         link: "https://www.amazon.it/metodo-Warren-Buffett-segreti-investitore/dp/8820362716/ref=sr_1_1?keywords=il+metodo+warren+buffett&qid=1666554796&qu=eyJxc2MiOiIxLjQ0IiwicXNhIjoiMC44NyIsInFzcCI6IjAuNjgifQ%3D%3D&sprefix=il+metodo+w%2Caps%2C160&sr=8-1",
     },
     {
         titolo: "Lo zen e l'arte di manutenzione della motocicletta",
-        citazione: "Vivere soltanto in funzione di una meta futura è sciocco. È sui fianchi delle montagne, e non sulla cima, che si sviluppa la vita",
+        citazione: "Vivere soltanto in funzione di una meta futura è sciocco. È sui fianchi delle montagne, e non sulla cima, che si sviluppa la vita.",
         src: "https://m.media-amazon.com/images/I/41q9GMGWmeL.jpg",
         link: "https://www.amazon.it/zen-larte-della-manutenzione-motocicletta/dp/8845907341/ref=sr_1_1?keywords=lo+zen+e+l+arte+della+manutenzione+della+motocicletta&qid=1666554806&qu=eyJxc2MiOiIwLjg0IiwicXNhIjoiMC4zNyIsInFzcCI6IjAuNDQifQ%3D%3D&sprefix=lo+zen+e%2Caps%2C141&sr=8-1",
     },
     {
         titolo: "Prima persona singolare",
-        citazione: "Cambiando l’esposizione dei raggi del sole, l’ombra diventa luce, la luce diventa ombra. Il positivo diventa negativo, e viceversa",
+        citazione: "Cambiando l’esposizione dei raggi del sole, l’ombra diventa luce, la luce diventa ombra. Il positivo diventa negativo, e viceversa.",
         src: "https://www.ibs.it/images/9788806248284_0_536_0_75.jpg",
         link: "https://www.amazon.it/Prima-persona-singolare-Haruki-Murakami/dp/8806248286/ref=sr_1_1?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=CU10USRP3RTQ&keywords=prima+persona+singolare&qid=1666554817&qu=eyJxc2MiOiIwLjQyIiwicXNhIjoiMC4xOCIsInFzcCI6IjAuMjEifQ%3D%3D&sprefix=prima+persona+singolar%2Caps%2C214&sr=8-1",
     },
@@ -143,13 +143,13 @@ const libri = [
     },
     {
         titolo: "Da zero a uno",
-        citazione: "Il monopolio è la condizione di ogni business di successo",
+        citazione: "Il monopolio è la condizione di ogni business di successo.",
         src: "https://m.media-amazon.com/images/I/71smRBsS57L.jpg",
         link: "https://www.amazon.it/segreti-startup-ovvero-costruisce-futuro/dp/8817080462/ref=sr_1_1?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1GMFO4F75D74D&keywords=da+zero+a+uno&qid=1666554841&qu=eyJxc2MiOiIxLjI5IiwicXNhIjoiMC44OCIsInFzcCI6IjAuNzUifQ%3D%3D&sprefix=da+zero+a+%2Caps%2C222&sr=8-1",
     },
     {
         titolo: "Tim Cook",
-        citazione: "Non ho mai riconosciuta la mia sessualità pubblicamente. Quindi fatemi essere chiaro: sono fiero di esseregay",
+        citazione: "Non ho mai riconosciuta la mia sessualità pubblicamente. Quindi fatemi essere chiaro: sono fiero di esseregay.",
         src: "https://m.media-amazon.com/images/I/419maTdPYrL.jpg",
         link: "https://www.amazon.it/Cook-genio-cambiato-futuro-Apple/dp/8820067609/ref=sr_1_1?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1MZKCJRYRJQW7&keywords=tim+cook&qid=1666554850&qu=eyJxc2MiOiIxLjMxIiwicXNhIjoiMC45NyIsInFzcCI6IjAuODgifQ%3D%3D&sprefix=tim+co%2Caps%2C284&sr=8-1",
     },
@@ -173,7 +173,7 @@ const libri = [
     },
     {
         titolo: "Il Grande Gatsby",
-        citazione: "La trovai sdraiata sul letto nel suo vestito a fiori bella come una notte di giugno e ubriaca come una scimmia",
+        citazione: "La trovai sdraiata sul letto nel suo vestito a fiori bella come una notte di giugno e ubriaca come una scimmia.",
         src: "https://m.media-amazon.com/images/I/41y-+nsBaRL.jpg",
         link: "https://www.amazon.it/grande-Gatsby-Francis-Scott-Fitzgerald/dp/8807900238/ref=sr_1_2?keywords=il+grande+gatsby&qid=1666554891&qu=eyJxc2MiOiIzLjY2IiwicXNhIjoiMi43OCIsInFzcCI6IjIuNzkifQ%3D%3D&sprefix=il+gra%2Caps%2C286&sr=8-2",
     },
