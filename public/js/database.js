@@ -249,6 +249,13 @@ const libri = [
         src: "https://m.media-amazon.com/images/I/81dhmnbA1VL.jpg",
         link: "https://www.amazon.it/Lestate-che-conobbi-Luigi-Garlando/dp/8817096466/ref=sr_1_1?keywords=l+estate+che+conobbi+il+che&qid=1666555026&qu=eyJxc2MiOiIwLjc2IiwicXNhIjoiMC40MiIsInFzcCI6IjAuMjYifQ%3D%3D&sprefix=l%27estate+che+conob%2Caps%2C183&sr=8-1",
     },
+    {
+        titolo: "La sottile arte di fare quello che cazzo ti pare",
+        citazione: "La società confonde l'attenzione con il successo. Il semplice fatto di poter scegliere i valori per cui sbatterci ci rende persone di successo.",
+        src: "https://www.ibs.it/images/9788822707475_0_536_0_75.jpg",
+        link: "https://www.amazon.it/scorretto-efficace-liberarsi-irritanti-problemi/dp/8822707451/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=",
+    },
+
 
 
 
