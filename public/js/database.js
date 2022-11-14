@@ -258,8 +258,8 @@ const libri = [
     {
         titolo: "CARCHITECTURE - Houses with horsepower",
         citazione: "Homes should be built in factories similar to those for automobiles",
-        src: "https://www.ibs.it/images/9788822707475_0_536_0_75.jpg",
-        link: "https://www.amazon.it/scorretto-efficace-liberarsi-irritanti-problemi/dp/8822707451/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=",
+        src: "https://m.media-amazon.com/images/I/41SfoJBKnNL.jpg",
+        link: "https://www.amazon.it/Carchitecture-Houses-Horsepower-Thijs-Demeulemeester/dp/9401461031",
     },
 
 
