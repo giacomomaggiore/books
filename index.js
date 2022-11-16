@@ -6,10 +6,17 @@ const app = express()
 
 app.use(express.static("public"))
 
+let percorso_landing = path.join(__dirname, "landing.html")
 let percorso_main = path.join(__dirname, "main.html")
 let percorso_about = path.join(__dirname, "about.html")
 
+
+
 app.get("/", (req,res)=>{
+    res.sendFile(percorso_landing)
+})
+
+app.get("/home", (req,res)=>{
     res.sendFile(percorso_main)
 })
 

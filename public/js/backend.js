@@ -1,9 +1,6 @@
 import {libri} from "./database.js"
 
 
-//LIBRO PRECEDENTE
-let libro_precedente
-
 //DICHIARAZIONE ELEMENTI CON IL QUERY SELECTOR
 let content = document.querySelector("#content")
 let body = document.querySelector("body")
